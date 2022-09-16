@@ -1,0 +1,82 @@
+
+
+
+
+
+span{
+    color: red;
+    font-style: italic;
+}
+
+
+
+.name{
+    color:black;
+    align-items: center;
+}
+
+
+
+.top{
+    background-color:#ffffcc;
+    height: 200px;
+    padding: 10px;
+    
+      
+}
+
+
+.pic{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 20px;
+}
+
+.edu{
+    background-color: #ffffe6;
+    height: 200px;
+    
+}
+
+.year{
+    color: blueviolet;
+    position: absolute;
+    right: 20px;
+    top: 300px;
+    
+}
+.dy{
+    color: blueviolet;
+    position: absolute;
+    right: 20px;
+    top: 370px;
+
+}
+
+.dy1{
+    color: blueviolet;
+    position: absolute;
+    right: 20px;
+    top: 500px;
+
+
+}
+
+.work{
+    background-color:#ffffcc;
+    height: 205px;
+    
+}
+.in{
+    color: orange;
+    font-style: bold;
+}
+.pro{
+    background-color:#ffffe6;
+    height: 300px;
+}
+
+.skills{
+    background-color: #ffffcc;
+}
