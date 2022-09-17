@@ -1,4 +1,6 @@
-
+a:hover{
+    background-color:#f2f2f2  ;
+}
 
 
 
@@ -20,9 +22,10 @@ span{
 .top{
     background-color:#ffffcc;
     height: 200px;
-    padding: 10px;
-    
-      
+    padding: 10px;    
+}
+.top:hover{
+    background-color: antiquewhite;
 }
 
 
@@ -32,11 +35,17 @@ span{
     position: absolute;
     right: 20px;
 }
+.pic:hover{
+    background-color:#f2f2f2 ;
+}
 
 .edu{
     background-color: #ffffe6;
     height: 200px;
     
+}
+.edu:hover{
+    background-color: antiquewhite;
 }
 
 .year{
@@ -44,14 +53,18 @@ span{
     position: absolute;
     right: 20px;
     top: 300px;
-    
+}
+.year:hover{
+    background-color:#f2f2f2 ;
 }
 .dy{
     color: blueviolet;
     position: absolute;
     right: 20px;
     top: 370px;
-
+}
+.dy:hover{
+    background-color:#f2f2f2 ;
 }
 
 .dy1{
@@ -59,14 +72,18 @@ span{
     position: absolute;
     right: 20px;
     top: 500px;
-
-
+}
+.dy1:hover{
+    background-color:#f2f2f2 ;
 }
 
 .work{
     background-color:#ffffcc;
     height: 205px;
     
+}
+.work:hover{
+    background-color: antiquewhite;
 }
 .in{
     color: orange;
@@ -76,7 +93,13 @@ span{
     background-color:#ffffe6;
     height: 300px;
 }
+.pro:hover{
+    background-color: antiquewhite;
+}
 
 .skills{
     background-color: #ffffcc;
+}
+.skills:hover{
+    background-color: antiquewhite;
 }
